@@ -35,4 +35,4 @@
 ## 运行环境
 本系统在Windows XP编写并测试，2013年转到Win7下，所以在该条件下一般不会有问题。但是由于在检算模拟过程中使用了Windows图形系统，因而对内存和CPU要求较高。（具体情况未测试）。
 
-[目录](https//github.com/ounce/humpcheckmanual/summary.md)
+[目录](https://github.com/ounce/humpcheckmanual/summary.md)
