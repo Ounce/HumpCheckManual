@@ -38,6 +38,6 @@
 
 # 目录
 
-[目录](/summary.md)
+[目录](summary.md)
 
 
